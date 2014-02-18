@@ -1,0 +1,10 @@
+Userbin API eksempel
+=====================================
+
+To use, download play<a href=""> and start `play` in this directory.
+
+Things you can try out:
+
+- curl http://localhost:9000/auth/signup
+- curl -d "username=foo&password=secret" http://localhost:9000/login
+- curl http://localhost:9000/logout
